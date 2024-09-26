@@ -5,6 +5,4 @@ The main resource is *C How to program* (Deitel P. & Deitel H., 9th edition).
 
 ---
 
-1. [Selection](selection) - on conditional statements
-2. [Iteration](iteration) - on loops
-3. Functions - on subroutines
+
